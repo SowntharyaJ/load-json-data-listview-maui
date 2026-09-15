@@ -1,4 +1,4 @@
-# load-json-data-listview-maui
+# How to load the json data in .NET MAUI ListView (SfListView)?
 
 This demo explains about how to load the json data in .NET MAUI ListView (SfListView)?
 
